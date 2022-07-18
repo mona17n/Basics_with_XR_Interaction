@@ -14,9 +14,15 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/GameScene_Grabbing.unity
     guid: c3adbef3fb54942428b7e1f2b79663db
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/GameScene_Movement.unity
     guid: 3813d9d28e966a546a64dee376030fe3
+  - enabled: 1
+    path: Assets/Scenes/GameScene_Breath.unity
+    guid: 962f906d8c8bb2f46bf6362a523f6aa3
+  - enabled: 0
+    path: Assets/Scenes/GameScene_Only_Breath.unity
+    guid: 63cf671a976e42b4aa0cc3d6204b2057
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: da4be16c4dfcd6f4dbeead512ea72ff4, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: c28f8d42063db0b4dad4fb36ef837b81, type: 2}
